@@ -1,4 +1,5 @@
 Web Application Description
+
 This is a lightweight single-page web application built using pure HTML, CSS, and JavaScript. It follows a client-side rendering (CSR) approach, providing a dynamic and interactive user experience.
 
 The application incorporates Bootstrap for responsive styling and includes custom CSS styles. JavaScript code manipulates the DOM to handle user interactions and update the page content.
