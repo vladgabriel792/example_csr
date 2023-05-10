@@ -1,4 +1,4 @@
-# Heading 1 Web Application Description
+# Web Application Description
 
 This is a lightweight single-page web application built using pure HTML, CSS, and JavaScript. It follows a client-side rendering (CSR) approach, providing a dynamic and interactive user experience.
 
