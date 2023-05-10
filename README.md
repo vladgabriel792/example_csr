@@ -13,6 +13,6 @@ Contributions and feedback are welcome via pull requests or issues on the GitHub
 - Clone the repository and open the root folder via IDE ( ex. Visual Studio Code ) 
 - Look for the plugin called 'Live Server' under VScode plugins section
 - Right-click index.html file and select 'Open With Live Server'
-- Explore the application
+- Explore the features :)
 
-- Explore the application via browser :)
+Enjoy using the web application!
