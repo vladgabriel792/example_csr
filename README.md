@@ -12,7 +12,7 @@ Enjoy using the web application!
 
 # Pre-requisites
 
-- Clone the repository and open via IDE ( ex. Visual Studio Code ) 
+- Clone the repository and open the root folder via IDE ( ex. Visual Studio Code ) 
 - Look for the plugin called 'Live Server' under VScode plugins section
 - Right-click index.html file and select 'Open With Live Server'
 - Explore the application via browser :)
