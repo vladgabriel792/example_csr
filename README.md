@@ -6,13 +6,13 @@ The application incorporates Bootstrap for responsive styling and includes custo
 
 To use the application, simply open the index.html file in a web browser. It does not rely on external frameworks or libraries, making it easy to deploy and customize.
 
-Contributions and feedback are welcome via pull requests or issues on the GitHub repository. The application is open source under the MIT License.
-
-Enjoy using the web application!
+Contributions and feedback are welcome via pull requests or issues on the GitHub repository.
 
 # Pre-requisites
 
 - Clone the repository and open the root folder via IDE ( ex. Visual Studio Code ) 
 - Look for the plugin called 'Live Server' under VScode plugins section
 - Right-click index.html file and select 'Open With Live Server'
+- Explore the application
+
 - Explore the application via browser :)
